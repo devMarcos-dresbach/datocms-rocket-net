@@ -1,11 +1,11 @@
 export default function Head() {
   return (
     <>
-      <title>Landing page DatoCMS Starter</title>
+      <title>Rocket-net</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta
         name="description"
-        content="Visit https://www.datocms.com/marketplace/starters for more starters"
+        content=""
       />
       <link rel="icon" href="/images/favicon.ico" />
     </>
